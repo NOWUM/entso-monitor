@@ -1,8 +1,11 @@
 [![generate docs](https://github.com/NOWUM/entso-monitor/actions/workflows/generate-docs.yml/badge.svg)](https://github.com/NOWUM/entso-monitor/actions/workflows/generate-docs.yml)
 
-# ENTSO-E and ENTSO-G Monitor
+# [DEPRECATED] ENTSO-E and ENTSO-G Monitor
 
-This is a software project developed for the AMI Master at FH Jülich
+This is a software project developed for the AMI Master at FH Jülich.
+
+> [!IMPORTANT]  
+> Use the newer [Open-Energy-Data-Server](https://github.com/open-energy-data-server/open-energy-data-server) instead.
 
 ## running the software
 
